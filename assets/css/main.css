@@ -338,7 +338,7 @@ h3.my-profession {
 }
 
 .home-info p {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   font-size: 20px;
   color: var(--text-black-500);
 }
@@ -880,4 +880,27 @@ h3.my-profession {
   display: flex;
   align-items: center;
   gap: 10px;
+}
+
+.link-inner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.rounded {
+  border-radius: 50%;
+}
+/*  */
+.sms-wrapper {
+  position: absolute;
+  right: 20px;
+  bottom: 5px;
+  z-index: 300;
+  font-size: 35px;
+  color: darkorange;
+
+  &:hover {
+    cursor: pointer;
+  }
 }
