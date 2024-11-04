@@ -891,16 +891,3 @@ h3.my-profession {
 .rounded {
   border-radius: 50%;
 }
-/*  */
-.sms-wrapper {
-  position: absolute;
-  right: 20px;
-  bottom: 5px;
-  z-index: 300;
-  font-size: 35px;
-  color: darkorange;
-
-  &:hover {
-    cursor: pointer;
-  }
-}
