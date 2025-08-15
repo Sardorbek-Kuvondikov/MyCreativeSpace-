@@ -43,6 +43,10 @@ body {
   font-size: 16px;
 }
 
+a {
+  color: inherit;
+}
+
 .padd-15 {
   padding-left: 15px;
   padding-right: 15px;
@@ -338,7 +342,7 @@ h3.my-profession {
 }
 
 .home-info p {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   font-size: 20px;
   color: var(--text-black-500);
 }
@@ -887,6 +891,7 @@ h3.my-profession {
   display: flex;
   align-items: center;
   gap: 10px;
+  margin-bottom: 10px;
 }
 
 .rounded {
