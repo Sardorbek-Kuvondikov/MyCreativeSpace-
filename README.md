@@ -5,5 +5,5 @@
 <h2>🧑‍💻 Installation & Setup</h2>
 <p>If you want to clone or run the project locally, follow the instructions below.</p>
 <hr>
-<h3> &copy Clone the repository </h3>
+<h3> &copy Clone the repository. </h3>
 <a href="https://github.com/Sardorbek-Kuvondikov/MyCreativeSpace-">Go to Fork</a>
